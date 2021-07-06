@@ -12,6 +12,7 @@ for i in range(198):
 #MIS FUNCIONES
 def menu():
     print("""
+    
 1. Ver asientos disponibles
 2. Comprar pasaje
 3. Eliminar una reserva de pasaje
